@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">BolsaDeValores</string>
+
+    <string name="informacion">INFORMACIÓN</string>
+    <string name="cartera">CARTERA</string>
+    <string name="empresas">EMPRESAS</string>
+    <string name="diagrama">DIAGRAMA</string>
+    <string name="apuestas">BONUS</string>
+    <string name="bienvenido">Bienvenid@ a</string>
+
+
+    <string name="info_1">Esto es un juego del Mercado de Valores. Consiste en comprar y vender acciones y conseguir el mayor veneficio posible.</string>
+
+    <string name="info_2">Al comenzar se te asigna un cantidad de 100.000 euros.</string>
+
+    <string name="info_3">Para comprar acciones entrar en el apartado EMPRESAS y clikas en la empresa de la que desees comprar acciones.</string>
+
+    <string name="info_4">Para vender acciones, en la pantalla de CARTERA, saldrán la relación de empresas de las que compraste acciones. Clikas en la que desees y te llevará a otra pantalla para indicar cuanto quieres vender.</string>
+
+    <string name="info_5">También dispones de una pantalla de estadisticas en DIAGRAMA.</string>
+
+    <string name="info_6">Para conseguir más dinero tienes un apartado en BONUS. En esta pantalla podrás elegir tres modos para obtener más saldo.</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.example.bolsadevalores
+package com.example.bolsadevalores.view
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity

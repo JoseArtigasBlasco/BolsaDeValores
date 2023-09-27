@@ -5,7 +5,10 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.bolsadevalores.MainActivity
+import com.example.bolsadevalores.adapter.EmpresasAdapter
+import com.example.bolsadevalores.data.DataclasEmpresas
+import com.example.bolsadevalores.data.EmpresasProvider
+import com.example.bolsadevalores.view.MainActivity
 import com.example.bolsadevalores.databinding.ActivityEmpresasBinding
 
 class Empresas : AppCompatActivity() {

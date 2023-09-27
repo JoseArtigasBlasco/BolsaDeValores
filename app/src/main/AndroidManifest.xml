@@ -13,6 +13,24 @@
         android:theme="@style/Theme.BolsaDeValores"
         tools:targetApi="31">
         <activity
+            android:name=".iu.pantallas.Informacion"
+            android:exported="false" />
+        <activity
+            android:name=".iu.pantallas.Empresas"
+            android:exported="false" />
+        <activity
+            android:name=".iu.pantallas.Diagrama"
+            android:exported="false" />
+        <activity
+            android:name=".iu.pantallas.Comprar_Acciones"
+            android:exported="false" />
+        <activity
+            android:name=".iu.pantallas.Cartera"
+            android:exported="false" />
+        <activity
+            android:name=".iu.pantallas.Bonus"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

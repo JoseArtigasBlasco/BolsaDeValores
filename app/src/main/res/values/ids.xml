@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="informacion" type="id">informacion</item>
+    <item name="cartera" type="id">cartera</item>
+    <item name="empresas" type="id">empresas</item>
+    <item name="diagrama" type="id">diagrama</item>
+    <item name="rotulo" type="id">rotulo</item>
+    <item name="apuestas" type="id">apuestas</item>
+</resources>

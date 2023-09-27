@@ -13,25 +13,25 @@
         android:theme="@style/Theme.BolsaDeValores"
         tools:targetApi="31">
         <activity
-            android:name=".pantallas.Informacion"
+            android:name=".iu.pantallas.Informacion"
             android:exported="false" />
         <activity
-            android:name=".pantallas.Empresas"
+            android:name=".iu.pantallas.Empresas"
             android:exported="false" />
         <activity
-            android:name=".pantallas.Diagrama"
+            android:name=".iu.pantallas.Diagrama"
             android:exported="false" />
         <activity
-            android:name=".pantallas.Comprar_Acciones"
+            android:name=".iu.pantallas.Comprar_Acciones"
             android:exported="false" />
         <activity
-            android:name=".pantallas.Cartera"
+            android:name=".iu.pantallas.Cartera"
             android:exported="false" />
         <activity
-            android:name=".pantallas.Bonus"
+            android:name=".iu.pantallas.Bonus"
             android:exported="false" />
         <activity
-            android:name=".view.MainActivity"
+            android:name=".iu.view.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

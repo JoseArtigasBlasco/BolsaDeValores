@@ -1,4 +1,4 @@
-package com.example.bolsadevalores.pantallas
+package com.example.bolsadevalores.iu.pantallas
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -8,7 +8,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.bolsadevalores.adapter.EmpresasAdapter
 import com.example.bolsadevalores.data.DataclasEmpresas
 import com.example.bolsadevalores.data.EmpresasProvider
-import com.example.bolsadevalores.view.MainActivity
+import com.example.bolsadevalores.iu.view.MainActivity
 import com.example.bolsadevalores.databinding.ActivityEmpresasBinding
 
 class Empresas : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.example.bolsadevalores.viewmodel
+package com.example.bolsadevalores.iu.viewmodel
 
 class CompraAccionesViewModel {
 

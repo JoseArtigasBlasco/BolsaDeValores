@@ -4,11 +4,12 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
 import com.example.bolsadevalores.databinding.ActivityComprarAccionesBinding
+import com.example.bolsadevalores.iu.viewmodel.CompraAccionesViewModel
 import java.text.DecimalFormat
 
 class Comprar_Acciones : AppCompatActivity() {
 
-    private val compraAcciones by viewModels<CompraAccionesViewModel>()
+
 
     private var valorInicial: Int= 0
 

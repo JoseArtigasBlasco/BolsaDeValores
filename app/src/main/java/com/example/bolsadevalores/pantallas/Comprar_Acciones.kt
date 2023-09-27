@@ -1,4 +1,4 @@
-package com.example.bolsadevalores.iu.pantallas
+package com.example.bolsadevalores.pantallas
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -4,11 +4,11 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.example.bolsadevalores.databinding.ActivityMainBinding
-import com.example.bolsadevalores.iu.pantallas.Bonus
-import com.example.bolsadevalores.iu.pantallas.Cartera
-import com.example.bolsadevalores.iu.pantallas.Diagrama
-import com.example.bolsadevalores.iu.pantallas.Empresas
-import com.example.bolsadevalores.iu.pantallas.Informacion
+import com.example.bolsadevalores.pantallas.Bonus
+import com.example.bolsadevalores.pantallas.Cartera
+import com.example.bolsadevalores.pantallas.Diagrama
+import com.example.bolsadevalores.pantallas.Empresas
+import com.example.bolsadevalores.pantallas.Informacion
 
 class MainActivity : AppCompatActivity() {
 

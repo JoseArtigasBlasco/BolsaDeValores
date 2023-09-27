@@ -13,22 +13,22 @@
         android:theme="@style/Theme.BolsaDeValores"
         tools:targetApi="31">
         <activity
-            android:name=".iu.pantallas.Informacion"
+            android:name=".pantallas.Informacion"
             android:exported="false" />
         <activity
-            android:name=".iu.pantallas.Empresas"
+            android:name=".pantallas.Empresas"
             android:exported="false" />
         <activity
-            android:name=".iu.pantallas.Diagrama"
+            android:name=".pantallas.Diagrama"
             android:exported="false" />
         <activity
-            android:name=".iu.pantallas.Comprar_Acciones"
+            android:name=".pantallas.Comprar_Acciones"
             android:exported="false" />
         <activity
-            android:name=".iu.pantallas.Cartera"
+            android:name=".pantallas.Cartera"
             android:exported="false" />
         <activity
-            android:name=".iu.pantallas.Bonus"
+            android:name=".pantallas.Bonus"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

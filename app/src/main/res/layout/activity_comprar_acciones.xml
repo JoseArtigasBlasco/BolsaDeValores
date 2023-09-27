@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:padding="15dp"
     android:background="@color/background_app"
-    tools:context=".iu.pantallas.Comprar_Acciones">
+    tools:context=".pantallas.Comprar_Acciones">
 
 
     <TextView
